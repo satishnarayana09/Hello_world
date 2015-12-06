@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22358" started-at="2015-12-06T10:26:21Z" finished-at="2015-12-06T10:26:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22358" started-at="2015-12-06T10:26:21Z" finished-at="2015-12-06T10:26:43Z">
+      <class name="DEMO.demoTestng">
+        <test-method status="PASS" signature="openfb()[pri:0, instance:DEMO.demoTestng@19dd5c0]" name="openfb" duration-ms="6096" started-at="2015-12-06T15:56:21Z" finished-at="2015-12-06T15:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfb -->
+        <test-method status="PASS" signature="loginfb()[pri:0, instance:DEMO.demoTestng@19dd5c0]" name="loginfb" duration-ms="16190" started-at="2015-12-06T15:56:27Z" finished-at="2015-12-06T15:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfb -->
+      </class> <!-- DEMO.demoTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
